@@ -49,7 +49,7 @@ function App() {
         onClick={handleClick} 
         style={{ padding: "10px 20px", borderRadius: "8px" }}
       >
-        Click Me and Harsh
+        Click Me to see the diffrence. 
       </button>
       <ProjectsPage></ProjectsPage>
     </div>
