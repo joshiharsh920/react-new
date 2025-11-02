@@ -1,0 +1,21 @@
+.fontClass{
+    font-size:x-large;
+     color: white;
+  text-decoration: none;
+}
+
+.btn-mar{
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+.img-size{
+    height: 300px;        
+  object-fit: cover; 
+}
+.custom-carousel {
+  max-width: 500px;   
+  margin: 40px auto; 
+  border-radius: 10px;
+  overflow: hidden;
+}
