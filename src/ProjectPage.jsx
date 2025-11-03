@@ -32,7 +32,7 @@ function ProjectsPage() {
           key={index}
           style={{
             width: "250px",
-            backgroundColor: "#f8f9fa",
+            backgroundColor: "#12161bff",
             borderRadius: "10px",
             boxShadow: "0 4px 8px rgba(0,0,0,0.1)",
             padding: "20px",
