@@ -38,19 +38,19 @@ function App() {
       <HeaderFile showPage={() => setShowFirstPage(true)} />
 
       <div style={{ textAlign: "center", marginTop: "50px" }}>
-       <input
+       {/* <input
         type="text" id="inputF"
         placeholder="Enter any value here"
         value={inputValue}
         onChange={(e)=>setInputValue(e.target.value)}
         style={{ padding: "8px", width: "200px", borderRadius: "5px", marginBottom: "10px" }}
-      />
-      <button 
+      /> */}
+      {/* <button 
         onClick={handleClick} 
         style={{ padding: "10px 20px", borderRadius: "8px" }}
       >
         Click Me
-      </button>
+      </button> */}
       <ProjectsPage></ProjectsPage>
     </div>
     
